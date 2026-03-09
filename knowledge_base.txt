@@ -1,0 +1,48 @@
+Company Overview
+TapNex is an event technology platform that provides NFC-based payment systems and event infrastructure for events such as college fests, concerts, exhibitions, and conferences.
+TapNex enables cashless transactions at events using NFC cards or wristbands.
+Attendees can recharge their cards and use them to make payments at stalls or outlets during the event.
+The system helps organizers manage payments, access control, ticketing, and event operations efficiently.
+
+NFC Payment System
+TapNex allows attendees to make payments using NFC cards or wristbands.
+Users simply tap their card at a payment device installed at event stalls to complete a transaction instantly.
+This system eliminates the need for cash transactions at the event.
+
+Card Recharge System
+Users must recharge their NFC cards before making purchases.
+Recharge is done at top-up counters located inside the event venue.
+Supported recharge methods include:
+● Cash
+● UPI
+Once recharged, the card balance can be used for purchases across all participating outlets.
+
+Event Technology Services
+In addition to payments, TapNex provides several event management tools, including:
+● Ticketing systems
+● Entry and exit management
+● Stall management
+● Volunteer management
+● Payment analytics for organizers
+These tools help organizers manage events efficiently.
+
+Sponsor Branding
+TapNex provides branding opportunities for event sponsors.
+Examples include:
+● Sponsor-branded recharge counters
+● Sponsor-branded NFC cards
+For example, a recharge counter may be branded as:
+“Zomato Recharge Zone”
+This helps sponsors gain visibility during events.
+
+Refund Policy
+TapNex NFC cards do not allow refunds or balance transfers after the event ends.
+Any unused balance remaining on the card cannot be withdrawn or transferred after the event.
+
+Event Usage Example
+At a typical event:
+1. Attendees receive an NFC card or wristband.
+2. They recharge their card at a recharge counter.
+3. They tap their card at stalls to make purchases.
+4. Vendors receive payments through the TapNex system.
+This enables faster and cashless transactions across the event.
