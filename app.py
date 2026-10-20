@@ -1,4 +1,4 @@
-import os
+﻿import os
 import streamlit as st
 from dotenv import load_dotenv
 
@@ -18,9 +18,9 @@ load_dotenv()
 # Check for API Key properly
 API_KEY = os.getenv("GROQ_API_KEY")
 
-st.set_page_config(page_title="TapNex AI Support", page_icon="🤖", layout="centered")
+st.set_page_config(page_title="TapNex AI Support", page_icon="ðŸ¤–", layout="centered")
 
-st.title("🤖 TapNex AI Customer Support Agent")
+st.title("ðŸ¤– TapNex AI Customer Support Agent")
 st.markdown("Ask any questions related to TapNex services, NFC payments, ticketing, and event infrastructure!")
 
 @st.cache_resource
@@ -115,3 +115,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
